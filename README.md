@@ -37,7 +37,7 @@ easier to understand, investigate, maintain, and extend.
 
 ### Languages
 
-![C#](https://img.shields.io/badge/C#-F7DF1E?style=flat-square&logo=csharp&logoColor=purple)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -102,6 +102,69 @@ systems programming.
 
 ---
 
+### Additional Frameworks & Languages
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+## Developer Workflow
+
+I work primarily in Linux-based development environments, with an emphasis on reproducibility, automation, and efficient navigation across large codebases.
+
+**Core tooling:** Git, Docker, SSH, terminal multiplexers, shell scripting, CI/CD, automated testing, and developer-focused CLI utilities.
+
+**Working approach:**
+
+- Keep build, test, and deployment workflows reproducible.
+- Validate assumptions against source code, schemas, and execution evidence.
+- Automate repetitive investigation and development tasks.
+- Prefer structured knowledge and deterministic validation over unsupported AI-generated conclusions.
+- Design tools around actual engineering workflows rather than isolated demonstrations.
+
+---
+
+## Architecture & Engineering Approach
+
+| Discipline | Approach |
+|---|---|
+| Full-Stack Engineering | Clear boundaries, maintainable APIs, and type-safe application design |
+| Platform Intelligence | Structured domain knowledge backed by validated implementation details |
+| AI Engineering | Evidence-grounded LLM integration, agent orchestration, and output validation |
+| Production Engineering | Root-cause investigation, data-integrity remediation, and regression prevention |
+| Developer Tooling | Practical automation, repository navigation, and reusable workflows |
+| Quality Engineering | Repeatable tests, explicit failure handling, and traceable results |
+
+---
+
+## Featured Engineering Projects
+
+| Project | Focus | Technologies |
+|---|---|---|
+| Onboarded | Platform intelligence and navigation across complex application ecosystems | TypeScript, LLMs, structured metadata |
+| Agentic Evaluation Platform | Reproducible agent evaluation, orchestration, and evidence-backed reporting | TypeScript, Node.js, automation |
+| Rust + TypeScript Projects | Practical utilities implemented in parallel to explore language and runtime tradeoffs | Rust, TypeScript, CLI |
+
+---
+
+## Current Engineering Interests
+
+- Reliable AI-assisted development systems and agent orchestration
+- Rust for practical systems and developer tooling
+- Linux automation and terminal-driven productivity
+- Developer platforms built around structured, validated domain knowledge
+- Full-stack architectures combining modern frontend frameworks and typed backend services
+
+---
+
+> Understand the system. Validate assumptions. Automate repeatable work. Build tools that last.
+
+---
+
 ## GitHub Activity
 
 <div align="center">
@@ -111,13 +174,6 @@ systems programming.
      width="100%" />
 
 </div>
-
----
-
-## Engineering Principles
-
-> Understand the system. Validate assumptions.
-> Automate repeatable work. Build tools that last.
 
 ---
 
