@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="280"
+     viewBox="0 0 1200 280">
+  <rect width="1200" height="280" rx="12"
+        fill="#0d1117"/>
+
+  <g stroke="#243040" stroke-width="1" opacity=".55">
+    <path d="M0 50H1200 M0 100H1200
+             M0 150H1200 M0 200H1200
+             M0 250H1200"/>
+    <path d="M100 0V280 M200 0V280
+             M300 0V280 M400 0V280
+             M500 0V280 M600 0V280
+             M700 0V280 M800 0V280
+             M900 0V280 M1000 0V280
+             M1100 0V280"/>
+  </g>
+
+  <rect x="42" y="40" width="6" height="200"
+        rx="3" fill="#38bdf8"/>
+
+  <text x="75" y="87" fill="#7dd3fc"
+        font-family="monospace" font-size="24">
+    $ whoami
+  </text>
+
+  <text x="75" y="153" fill="#f0f6fc"
+        font-family="Arial,sans-serif"
+        font-weight="bold" font-size="51">
+    MICHAEL LOWENSTEIN
+  </text>
+
+  <text x="75" y="199" fill="#aab8c7"
+        font-family="monospace" font-size="24">
+    Software Engineer / Full-Stack Architecture
+  </text>
+
+  <text x="75" y="235" fill="#8b949e"
+        font-family="monospace" font-size="19">
+    TypeScript · Rust · Linux · AI Systems
+  </text>
+</svg>
